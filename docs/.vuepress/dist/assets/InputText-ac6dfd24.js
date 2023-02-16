@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as _}from"./framework-204010b2.js";const n={name:"InputText"},c={type:"text"};function o(p,s,a,r,u,d){return t(),_("input",c)}const i=e(n,[["render",o],["__scopeId","data-v-b236d8ce"],["__file","InputText.vue"]]);export{i as default};
