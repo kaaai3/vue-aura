@@ -4,7 +4,7 @@ import {
   isString
 } from "./chunk-JXWQMH7G.js";
 
-// node_modules/@vuepress/shared/dist/index.js
+// node_modules/@vuepress/client/node_modules/@vuepress/shared/dist/index.js
 var resolveHeadIdentifier = ([
   tag,
   attrs,

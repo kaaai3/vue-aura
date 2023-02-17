@@ -4,7 +4,6 @@ import { getDirname, path } from '@vuepress/utils'
 
 const __dirname = getDirname(import.meta.url)
 export default {
-    base: '/vue-aura/',
     theme: defaultTheme({
         // sidebar array
         // all pages will use the same sidebar
