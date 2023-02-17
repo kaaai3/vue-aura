@@ -28,10 +28,12 @@
   },
   "devDependencies": {
     "@vuepress/plugin-register-components": "^2.0.0-beta.60",
+    "@vuepress/utils": "^2.0.0-beta.60",
     "rollup": "^3.15.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
-    "rollup-plugin-vue": "^6.0.0",
-    "vuepress": "^2.0.0-beta.60",
-    "@vuepress/utils": "^2.0.0-beta.60"
+    "rollup-plugin-vue": "^6.0.0"
+  },
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.60"
   }
 }
